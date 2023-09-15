@@ -1,2 +1,1 @@
-# XXO
-It's a tik tak toe in c#
+Tic Tac toe in C Sharp
